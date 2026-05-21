@@ -1,18 +1,12 @@
-<h1 align="center">Alfonso | Cybersecurity Student</h1>h1>
+# Alfonso | Cybersecurity Student
 
-<p align="center">
-  LM-66 master's student focused on practical cybersecurity, networking, packet analysis and Python security tools.
-</p>p>
+LM-66 master's student focused on practical cybersecurity, networking, packet analysis and Python security tools.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Learning-0A66C2?style=for-the-badge" alt="Cybersecurity badge" />
-    <img src="https://img.shields.io/badge/Linux-Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white" alt="Linux badge" />
-      <img src="https://img.shields.io/badge/Python-Security%20Tools-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
-        <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark badge" />
-          <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-00457C?style=for-the-badge" alt="Nmap badge" />
-</p>p>
-
----
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-0A66C2?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Security%20Tools-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-00457C?style=for-the-badge)
 
 ## What I Am Building
 
@@ -39,32 +33,35 @@ My current goal is to grow step by step toward junior cybersecurity and SOC anal
 
 ## Lab Highlights
 
-- Built a personal cybersecurity lab with Kali Linux and VirtualBox
-- - Practiced packet analysis with Wireshark and tcpdump
-  - - Documented DNS, HTTP, TLS, ICMP and TCP traffic analysis
-    - - Created Python scripts for TCP connections, port scanning, banner grabbing and reverse DNS
-      - - Organized screenshots and notes as portfolio evidence
-       
-        - ## Learning Roadmap
-       
-        - | Phase | Goal |
-        - |---|---|
-        - | Phase 1 | Build and document a working home cyber lab |
-        - | Phase 2 | Strengthen Linux and networking fundamentals |
-        - | Phase 3 | Create Python networking and security tools |
-        - | Phase 4 | Practice packet analysis with Wireshark and tcpdump |
-        - | Phase 5 | Start beginner CTF and TryHackMe writeups |
-        - | Phase 6 | Prepare for junior cybersecurity and SOC analyst roles |
-       
-        - ## Next Steps
-       
-        - - Improve Python security tools
-          - - Add packet parsing labs
-            - - Start beginner TryHackMe writeups
-              - - Build stronger SOC analyst fundamentals
-                - - Continue documenting every practical lab
-                 
-                  - ## Disclaimer
-                 
-                  - All content is for educational purposes only. Any scanning, testing or packet analysis is performed in controlled environments or on systems I am authorized to use.
-                  - 
+| Highlight |
+|---|
+| Built a personal cybersecurity lab with Kali Linux and VirtualBox |
+| Practiced packet analysis with Wireshark and tcpdump |
+| Documented DNS, HTTP, TLS, ICMP and TCP traffic analysis |
+| Created Python scripts for TCP connections, port scanning, banner grabbing and reverse DNS |
+| Organized screenshots and notes as portfolio evidence |
+
+## Learning Roadmap
+
+| Phase | Goal |
+|---|---|
+| Phase 1 | Build and document a working home cyber lab |
+| Phase 2 | Strengthen Linux and networking fundamentals |
+| Phase 3 | Create Python networking and security tools |
+| Phase 4 | Practice packet analysis with Wireshark and tcpdump |
+| Phase 5 | Start beginner CTF and TryHackMe writeups |
+| Phase 6 | Prepare for junior cybersecurity and SOC analyst roles |
+
+## Next Steps
+
+| Priority | Work |
+|---|---|
+| 1 | Improve Python security tools |
+| 2 | Add packet parsing labs |
+| 3 | Start beginner TryHackMe writeups |
+| 4 | Build stronger SOC analyst fundamentals |
+| 5 | Continue documenting every practical lab |
+
+## Disclaimer
+
+All content is for educational purposes only. Any scanning, testing or packet analysis is performed in controlled environments or on systems I am authorized to use.
