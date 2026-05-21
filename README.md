@@ -2,11 +2,11 @@
 
 L-31 graduate (14 May 2026) and LM-66 master's student focused on practical cybersecurity, networking, packet analysis and Python security tools.
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-0A66C2?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Security%20Tools-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-00457C?style=for-the-badge)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-0A66C2?style=for-the-badge)](https://github.com/Alfonso-security/home-cyber-lab/tree/main)
+[![Linux](https://img.shields.io/badge/Linux-Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Alfonso-security/home-cyber-lab/tree/main/linux)
+[![Python](https://img.shields.io/badge/Python-Security%20Tools-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Alfonso-security/home-cyber-lab/tree/main/python)
+[![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com/Alfonso-security/home-cyber-lab/tree/main/wireshark)
+[![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-00457C?style=for-the-badge)](https://github.com/Alfonso-security/home-cyber-lab/tree/main/nmap)
 
 ## What I Am Building
 
