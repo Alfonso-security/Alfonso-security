@@ -1,6 +1,6 @@
 # Alfonso | Cybersecurity Student
 
-LM-66 master's student focused on practical cybersecurity, networking, packet analysis and Python security tools.
+L-31 graduate (14 May 2026) and LM-66 master's student focused on practical cybersecurity, networking, packet analysis and Python security tools.
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-0A66C2?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-Kali%20Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)
@@ -13,6 +13,21 @@ LM-66 master's student focused on practical cybersecurity, networking, packet an
 I am building a practical cybersecurity portfolio based on real lab work: Linux, networking, packet capture, Python scripting and technical documentation.
 
 My current goal is to grow step by step toward junior cybersecurity and SOC analyst roles by showing practical work, not only theory.
+
+## Career Target
+
+| Target | Details |
+|---|---|
+| Preferred Roles | Junior SOC Analyst, Junior Cybersecurity Analyst, Cybersecurity Internship |
+| Location | Caltanissetta, Sicily, Italy |
+| Focus | Linux, networking, packet analysis, Python automation and SOC fundamentals |
+
+## Contact
+
+| Channel | Link |
+|---|---|
+| Email | alfonsopagano@hotmail.com |
+| LinkedIn | [Alfonso Pagano](https://www.linkedin.com/in/alfonso-pagano-589056267/) |
 
 ## Featured Projects
 
